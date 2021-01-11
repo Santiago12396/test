@@ -1,0 +1,1 @@
+* Recuperar la lanza del destino
