@@ -2,4 +2,3 @@
 * Arrow
 * Legends
 * Supergirl
-* Superman
