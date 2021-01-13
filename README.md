@@ -4,14 +4,15 @@ Un archivo README contiene información acerca de otros archivos en un directori
 
 El nombre del archivo es generalmente escrito en mayúsculas. En los sistemas Unix-like, generalmente los nombres se escriben en minúscula, y esto hace que en un listado de archivos salga primero el archivo README.
 
-1- ***Negrita y Cursiva***
-2- __Negrita y Cursiva__
+1-  ***Negrita y Cursiva***
+
+2-  ___Negrita y Cursiva___
 
 > - wikipedia
 
 * _Texto cursiva_
     * Sub Texto
-        *Sub/sub Texto
+        * Sub/sub Texto
 * **Texto negrita**
 
 ## Crear un componente
@@ -20,11 +21,11 @@ El nombre del archivo es generalmente escrito en mayúsculas. En los sistemas Un
 ## Crear un servicio
     ng g s services/service
 
-[Link a fb](www.google.com)
+[Link a fb](https://www.facebook.com)
 
 [Link a google][google]
 
-[google]: www.google.com
+[google]: https://www.google.com
 
 ![Imagen de prueba](https://i.blogs.es/a19bfc/testing/450_1000.jpg)
 
